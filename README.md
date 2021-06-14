@@ -1,2 +1,2 @@
 # JatimParkClassProject
- This is an assignment..
+ This project for my classassignment..
