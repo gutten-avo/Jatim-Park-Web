@@ -1,2 +1,2 @@
 # JatimParkClassProject
- This project for my class assignment..
+ This is my final project in 1st semester in Binus University
